@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "picpay",
-    "slug": "picpay",
+    "name": "PicPay Clone",
+    "slug": "picpay-clone",
     "platforms": [
       "ios",
       "android",
@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Clone da interface do aplicativo de pagamentos PicPay feito em React Native com Expo CLI",
+    "githubUrl": "https://github.com/Rychillie/PicPay-Clone"
   }
 }
